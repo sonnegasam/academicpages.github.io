@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sam Sonnega"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Sam Sonnega"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Sam Sonnega"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "University of Massachussetts Dartmouth"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AP6z3Oa_Fd1-DFH1t19DZY_jxfd7CRd8z2I1BHbBr-bFp30-o9jwquS4iE_osxQyYLg3cWlhCBx_eEu005FArg&user=YNi4PbwAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@SamwiseSonnega"
   vine             :
   weibo            :
   xing             :
